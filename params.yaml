@@ -1,0 +1,10 @@
+model:
+  colsample_bytree: 0.919515191971797
+  gamma: 3.8153366035744476
+  learning_rate: 0.013839026333281122
+  max_depth: 4
+  n_estimators: 340
+  reg_alpha: 2.8431016769247757
+  reg_lambda: 4.214968866484467
+  subsample: 0.7398713970883123
+threshold: 0.32
