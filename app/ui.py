@@ -34,7 +34,7 @@ if st.button("Predict"):
     }
 
     response = requests.post(
-        "http://127.0.0.1:8000/predict",
+        "https://banking-customer-churn-prediction-2pel.onrender.com/",
         json=data
     )
 
