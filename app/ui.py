@@ -34,7 +34,7 @@ if st.button("Predict"):
     }
 
     response = requests.post(
-        "https://banking-customer-churn-prediction-2pel.onrender.com/",
+        "https://banking-customer-churn-prediction-2pel.onrender.com/predict",
         json=data
     )
 
