@@ -11,7 +11,7 @@ It is a **complete end-to-end ML system** including:
 * Evaluation metrics
 * FastAPI backend (API)
 * Streamlit frontend (UI)
-
+* Working Link : https://banking-customer-churn-prediction-n4e8.onrender.com/
 ---
 
 ## 🎯 Problem Statement
@@ -177,12 +177,11 @@ streamlit run app/ui.py
 * Pipeline-based preprocessing (no data leakage)
 * Hyperparameter tuning with Optuna
 * Deploying ML models with FastAPI
-
+* Deployed on Render
 ---
 
 ## 🚀 Future Improvements
 
-* Deploy on cloud (AWS / Render / Railway)
 * Add MLflow for experiment tracking
 * Add Docker support
 * CI/CD pipeline
